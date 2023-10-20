@@ -1,0 +1,25 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.title-1{
+padding-bottom: 15px;
+margin-left: 65px;
+    color: #000;
+    font-family: Roboto Slab;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 101.385%; 
+}
+li{
+margin-left: 65px;
+padding-right: 371px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; 
+}
